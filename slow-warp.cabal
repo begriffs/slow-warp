@@ -21,4 +21,6 @@ executable slow-warp
                      , wai
                      , transformers
                      , process
+                     , HDBC
+                     , HDBC-postgresql
   default-language:    Haskell2010
